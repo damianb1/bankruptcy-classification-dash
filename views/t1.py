@@ -287,7 +287,7 @@ data_info = html.Div([
 
 ])
 
-layout = html.Div([
+layout = dbc.Container([
     html.H4("Project description"),
     dcc.Markdown("""
         This app is an example of a dashboard for a machine learning experiment. 
