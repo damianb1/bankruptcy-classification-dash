@@ -293,7 +293,7 @@ layout = dbc.Container([
         This app is an example of a dashboard for a machine learning experiment. 
         The main goal is to create a model that accurately predicts bankruptcy of firms.
         It is a binary classification problem.
-        Dashboard allows to test various classification methods and techniques supporting
+        The app allows to test various classification methods and techniques supporting
          this task such as data preprocessing and visualization tools. 
 
         Application is divided into 4 parts:
