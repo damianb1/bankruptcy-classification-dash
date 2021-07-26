@@ -4,8 +4,8 @@
 
 ` pip install -r requirements.txt` or `python -m pip install -r requirements.txt`
 
-4. Run index.py:
+4. Run index.py to host the app locally:
 
 `python index.py`
 
-
+5. Open the app in a browser.
