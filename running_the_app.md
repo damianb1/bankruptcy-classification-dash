@@ -9,4 +9,4 @@
 4. Run index.py:
 > python index.py
 
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
