@@ -11,6 +11,11 @@ To test the application, you can run it locally. For instructions, check running
 
 (The app is not meant for conducting real analysis. It merely demonstrates some functionalities of dash framework in an example context.)
 
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/79875767/126954100-24a2cfa0-d933-4528-9747-6c87ff774a37.png" height=500/>
+  <img src="https://user-images.githubusercontent.com/79875767/126954100-24a2cfa0-d933-4528-9747-6c87ff774a37.png" height=500/>
+</p>
+
 ![Screenshot 2021-07-20 at 14-55-41 Bankruptcy prediction](https://user-images.githubusercontent.com/79875767/126954100-24a2cfa0-d933-4528-9747-6c87ff774a37.png)
 
 
