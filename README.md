@@ -13,10 +13,12 @@ To test the application, you can run it locally. For instructions, check running
 
 Screenshots:
 
-
+<p float="left">
   <img src="https://user-images.githubusercontent.com/79875767/126954100-24a2cfa0-d933-4528-9747-6c87ff774a37.png" height=500/>
   <img src="https://user-images.githubusercontent.com/79875767/126954371-7d82e13a-53e6-425c-8e04-7da742d42181.png" height=500/>
-    <img src="https://user-images.githubusercontent.com/79875767/126954402-79e24deb-9316-4305-bd2e-4c6c0b0200ef.png" height=500/>
+  <img src="https://user-images.githubusercontent.com/79875767/126954402-79e24deb-9316-4305-bd2e-4c6c0b0200ef.png" height=500/>
+</p>
+  
 
 
 
