@@ -11,6 +11,9 @@ To test the application, you can run it locally. For instructions, check running
 
 (The app is not meant for conducting real analysis. It merely demonstrates some functionalities of dash framework in an example context.)
 
+Data source:  
+https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data
+
 
 Screenshots:
 
