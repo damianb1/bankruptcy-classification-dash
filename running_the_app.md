@@ -1,6 +1,7 @@
 1. Download the repository
 
 (1.1 `python -m pip install --upgrade pip`)
+
 2. Create new python virtual environment and activate it. (https://docs.python.org/3/tutorial/venv.html)
 3. To install required packages, run:
 
